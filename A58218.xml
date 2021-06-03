@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Reasonableness of the Church of Englands test and justness of her reformation asserted in answer to the Bishop of Oxon's fallacious reasons and precarious assertions against it : also the worship of images, adoration of the Host, and innovation of saints &amp;c., proved idolatry by the catholick doctrine of the Holy Scripture, the ancient Fathers, and all reformed churches : by which the writings of Dr. Stillingfleet, Dr. Tillotson, Dr. Moore &amp;c. are cleared from the charge of anticatholick, antichristian, fanatical &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 93KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58218</idno><idno type="EEBO-CITATION">13459201</idno>
+  <idno type="VID">99622</idno>
+  <idno type="EEBO-PROQUEST">2240953074</idno>
+  
+            <idno type="STC">Wing R463_VARIANT</idno>
+            <idno type="STC">ESTC R33514</idno>
+            <idno type="OCLC">13459201</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58218)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99622)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1555:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Reasonableness of the Church of Englands test and justness of her reformation asserted in answer to the Bishop of Oxon's fallacious reasons and precarious assertions against it : also the worship of images, adoration of the Host, and innovation of saints &amp;c., proved idolatry by the catholick doctrine of the Holy Scripture, the ancient Fathers, and all reformed churches : by which the writings of Dr. Stillingfleet, Dr. Tillotson, Dr. Moore &amp;c. are cleared from the charge of anticatholick, antichristian, fanatical &amp;c.</title>
+               </titleStmt>
+               <extent>[2], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>[1688?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Imperfect: pages cropped with slight loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Apologetic works.</term>
+               <term type="uniform_title">Test Act (1673)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99622:1"/>
+            <pb facs="tcp:99622:1"/>
+            <p>The Reasonableness of the CHURCH of ENGLANDS TEST, And Justness of her REFORMATION, Asserted; In Answer to the Bishop of Oxon's Fallacious Reasons, and Precarious Asser<g ref="char:EOLhyphen"/>tions against it.</p>
+            <p>Also the Worship of <hi>IMAGES,</hi> Adoration of the <hi>HOST,</hi> and Invocation of <hi>SAINTS, &amp;c.</hi>
+            </p>
+            <p>PROVED IDOLATRY, By the Catholick Doctrine of the Holy Scripture, the Ancient Fathers, and all Reformed Churches.</p>
+            <p>By which the Writings of Dr. <hi>Stillingfleet,</hi> Dr. <hi>Tillotson,</hi> Dr. <hi>Moore,</hi> &amp;c. are Cleared from the Charge of Anti-catholick, Antichristian, Fanatical, <hi>&amp;c.</hi>
+            </p>
+            <q>For it was not an Enemy that Reproached me, then I could have born it,— but it was thou, a Man, mine Equal, my Guide, and my Acquaintance, <bibl>
+                  <hi>Psal. 55. v. 12, 13.</hi>
+               </bibl>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:99622:2"/>
+            <pb n="1" facs="tcp:99622:2"/>
+            <p>AMong all the late Discourses I have seen, there is none that af<g ref="char:EOLhyphen"/>fords Occasion of greater Surprize, than that Intitl'd <hi>Reasons for Abrogating the TEST,</hi> especially if we consider the Pre<g ref="char:EOLhyphen"/>sent Station of the Author, and his Difference in Opinion, while moving in a Lower Orb, and was labouring for Promo<g ref="char:EOLhyphen"/>tion. As to his present Quality, He is well known to be one of the Re<g ref="char:EOLhyphen"/>puted Fathers of the Church of <hi>England,</hi> or Overseers of the Flock of <hi>Christ,</hi> to preserve it from all False Doctrine, Heresie, and Schism, <hi>&amp;c.</hi> And therefore it cannot but be admir'd, that a Person who owes his Ec<g ref="char:EOLhyphen"/>clesiastical Dignity to the Church of <hi>England,</hi> should so meanly Con<g ref="char:EOLhyphen"/>descend, as if he saw his Dignity in danger, to plead for <hi>Transubstantia<g ref="char:EOLhyphen"/>tion,</hi> and the Church of <hi>Rome,</hi> against the Charge of <hi>Idolatry,</hi> maintain'd as well by all the Reform'd Churches in General, as by that Establish'd by Law in these His Majesty's Dominions! Which is no more than to proclaim to all the World, that the Church of which he is at present a Consecrated Bishop, is a Schismatical Church. And this only upon the account of making it an Argument to overthrow the <hi>Test,</hi> which debars the <hi>Roman Catholick</hi> Peers from sitting in Parliament. Now that he seems to prove the Church of <hi>England</hi> to be Schismatical, in his making good his Argument against the <hi>Test,</hi> is plain; For he makes it his business to shew you, That <hi>Transubstantiation,</hi> as it is decided by the Council of <hi>Trent,</hi> is a Doctrine which has always been acknowledg'd by the Church of <hi>England;</hi> and that the Church of <hi>Rome</hi> is not guilty of <hi>Idolatry.</hi> Which if true, the Church of <hi>England</hi> can never justifie her self in her Separation from the Church of <hi>Rome.</hi> So that even <hi>Va<g ref="char:EOLhyphen"/>rillas</hi> himself, could hardly have been so disingenuous as to have obtrud<g ref="char:EOLhyphen"/>ed such a Fallacy upon the World.</p>
+            <p>But we shall not further digress, but trace our Author▪ and try on what solid Grounds his New Discoveries insist.</p>
+            <p>As to his first and second Reasons, I leave it to the Gentlemen of the Long Robe. Only I thought this old Saying might be inserted,
+<q>Turpius ejicitur quam non admittitur Hospes.</q>
+            </p>
+            <p>As for his Third Reason, That this Law is of an Ecclesiastical Nature.<note place="margin">
+                  <hi>Page.</hi> 6.</note> I cannot conceive how making Acts what Persons are to be admitted in<g ref="char:EOLhyphen"/>to Places of Trust, can be of an Ecclesiastical Nature. It would seem that all Acts of an Ecclesiastical Nature, are either for the decision of some intricate point of Divinity, or for Enjoyning the decent perform<g ref="char:EOLhyphen"/>ance of all things belonging to the Worship of God, or calling to account
+<pb n="2" facs="tcp:99622:3"/> those who are unruly, and walk disorderly, as the Apostle terms it, and Excommunicating such if Obstinate: But none of these can be said in the case of the <hi>Test.</hi> For here was no making of Decrees upon Divine Ve<g ref="char:EOLhyphen"/>rities; that is, here was no Discussion of that Controversie of <hi>Transub<g ref="char:EOLhyphen"/>stantiation</hi> and <hi>Idolatry,</hi> but only the Parliament supposing the <hi>Protestant</hi> Opinion in opposition to it, to have been a Truth received by our Church, and that upon Authority Competent, and continued for above a hundred Years, and that it was the only <hi>Test</hi> to distinguish one of the Church of <hi>Rome</hi> from one of our own Communion, and therefore enjoyned, that none should be admitted to sit in Parliament, or bear any publick Charge, but such as disowned <hi>Transubstantiation,</hi> &amp;c. which is as much as to say, We order that none sit in Parliament, or bear any publick Charge, but such as disowned <hi>Transubstantiation, &amp;c.</hi> which is as much as to say, We order that none sit in Parliament, <hi>&amp;c.</hi> but those who are by Profession of the Church of <hi>England</hi> as it is now Established by Law. But this Argu<g ref="char:EOLhyphen"/>ment being so Trivial, the very naming of it seems a sufficient Refutal; We therefore proceed to that he insists so much upon, and by which he seems rather to have designed to support the tottering Cause of the Church of <hi>Rome,</hi> than to impugn the <hi>Test.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Pag.</hi> 9.</note>His Fourth Reason why it ought to be Repealed, is, <hi>Because of the Un<g ref="char:EOLhyphen"/>certainty and Falshood of the Matters therein contained:</hi> As first, <hi>That there is no Transubstantiation in the Sacrament of our Saviours Body and Blood.</hi> And secondly, <hi>That the Invocation of Saints and the Mother of God is Idolatry.</hi>
+            </p>
+            <p>The Reverend Author follows exactly the Method of those he takes upon him to defend. Which is first to begin to bespatter those whom he alledges were Promoters of the <hi>Test.</hi>
+            </p>
+            <p>He begins first to shew the Evil of imposing the Abjuration of <hi>Tran<g ref="char:EOLhyphen"/>substantiation,</hi> and makes a great Bustle to shew the Unreasonableness of imposing an Oath, the Contents whereof are so abstruse, that it is hardly possible for Noblemen especially to come to the understanding of them. And to make his Putt good, he makes a very long Digression on the No<g ref="char:EOLhyphen"/>tions of the several Schoolmen about <hi>Transubstantiation;</hi> where he ever and anon drops precarious Assertions, to wit, that the Catholick Church in all Ages, maintained the Real and Substantial Presence; but we meet not with any shew of Proof thereof. It seems he thinks the old <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is enough, that <hi>his</hi> Affirmation is evidence enough to prove the Truth of any thing. One would almost admire what he means in setting down those wild Notions of <hi>Scotists, Nominalists,</hi> &amp;c. And indeed it can be with no other design than to consound his Reader; Yet in the end he gives you the Description of <hi>Transubstantiation,</hi> as it is in the 4th Chapter of the 13th. Session of the Council of <hi>Trent,</hi> in these words:</p>
+            <p>
+               <note place="margin">
+                  <hi>Page</hi> 25.</note>
+               <q rend="margQuotes">By the Consecration of the Bread and Wine, there is a Conversion of the whole substance of the Bread into the substance of the Body of <hi>Christ,</hi> and of the whole substance of the Wine into the substance of his
+<pb n="3" facs="tcp:99622:3"/> Blood; which Conversion is fitly and properly called by the Holy Ca<g ref="char:EOLhyphen"/>tholick Church, <hi>Transubstantiation.</hi>
+               </q>
+            </p>
+            <p>Now what moved him to rail so much against the Imposers of the <hi>Test,</hi> as imposing Propositions which Noblemen could not possibly un<g ref="char:EOLhyphen"/>derstand? For certainly they must be of very mean Capacities who cannot understand the Decision of that Infallible Church in this affair, and that goes beyond all the particular Notions of Schoolmen, and is the Rule to which they are all to submit. It seems our Author has a very mean Opinion of the Nobility, while he so confidently averrs, that they neither <hi>do</hi> nor <hi>can</hi> understand it. For it is proposed in as plain and obvious terms as can be, though I confess a man must put a suspension (for that time at least) to Sense, Reason, and Religion, to believe it; and may therefore the easilier and safelier swear against it.</p>
+            <p>He proceeds to give you the Opinions of the several Communions differing from the Church of <hi>Rome;</hi>
+               <note place="margin">
+                  <hi>Pag.</hi> 28.</note> And he first begins with the <hi>Luthe<g ref="char:EOLhyphen"/>rans.</hi> But what he speaks as to their Sentiments, we purposely wave. Seeing though they differ from the Church of <hi>Rome</hi> in that point, yet their Church differs vastly in her Opinion from all other Protestant Churches; yet they do not in the least own, that the Bread and Wine are transub<g ref="char:EOLhyphen"/>stantiated into the Body and Blood of <hi>Christ.</hi>
+            </p>
+            <p>Whereas our Author says,<note place="margin">
+                  <hi>Pag.</hi> 31.</note> that the <hi>Helvetian</hi> Ministers maintained the Real Presence, we have Inserted the following passage out of their Con<g ref="char:EOLhyphen"/>fession.<note place="margin">Helvet. Confess.</note>
+               <q rend="margQuotes">We do not then so joyn the Body of the Lord and his Blood with the Bread and Wine, as tho we thought that the Bread is the Bo<g ref="char:EOLhyphen"/>dy of Christ more than after a Sacramental manner, or yet that the Body of Christ doth lye hid corporally under the Bread, so as it ought to be worshipped under the form of Bread, or yet that he that recei<g ref="char:EOLhyphen"/>veth the sign receiveth also the Thing it self. The Body of Christ is in the Heavens, at the right hand of his Father, <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>And he affirms, that the <hi>Bohemian Waldenses declare expresly,</hi>
+               <note place="margin">
+                  <hi>Page</hi> 2<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note>
+               <hi>Bread and Wine are the very Body and Blood of Christ.</hi> The Reader may please to take notice of these words in their Confession, <q rend="margQuotes">Wherefore this Speech,<note place="margin">Confess. Bohem.</note>
+                  <hi>Bread is the Body, and Wine is the Blood of Christ,</hi> is a Sacramental Speech, to wit, that these two distinct things, do remain the self same thing which in their own nature they be, and yet by reason of a Sacramental Union, or Sacramentally, they be that also which they signifie, and whereof they do testifie—. Now both good and bad use this Sa<g ref="char:EOLhyphen"/>crament, yet the true Believers receive it to Life, and the Unbelievers to Condemnation: And tho both receive it outwardly, yet the Belie<g ref="char:EOLhyphen"/>vers do receive it Spiritually, and so to their Salvation.</q> Nothing like, The Bread and Wine are the very Body and Blood of Christ here.</p>
+            <p>
+               <hi>And,</hi> saith he, <hi>the Reformed French Church confess, that in the Lords Supper,</hi>
+               <note place="margin">
+                  <hi>Pag.</hi> 37<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note>
+               <hi>not only all the Benefits of Christ, but his very Flesh and Blood are there exhibited to us;</hi> in the French Confession you may find these Words,<note place="margin">Confess. Gall.</note>
+               <q rend="margQuotes">For altho
+<pb n="4" facs="tcp:99622:4"/> he be now in Heaven, and shall remain there till he come to judge the World; yet we believe that by the secret and incomprehensible Vertue of his Spirit, he doth nourish and quicken us with the Substance of his Body and Blood being apprehended by Faith. But we say that this is done Spiritually, <hi>&amp;c.</hi>
+               </q> Not a word of Transubstantiation here.</p>
+            <p>
+               <note place="margin">
+                  <hi>Pag.</hi> 37.</note>Then he proceeds to <hi>Calvin,</hi> and would make the World believe that he likewise asserted it. Whereas it's plain that he mean'd nothing else but a Spiritual Presence and a Spiritual Nourishment to the worthy Recei<g ref="char:EOLhyphen"/>vers. But because our Author thinks he has got an Argument <hi>ad homi<g ref="char:EOLhyphen"/>nem</hi> against <hi>Calvinists,</hi> I shall only set down a little from some of the fol<g ref="char:EOLhyphen"/>low Paragraphs, and then let any one judge how the Words he cites, can be Interpreted in his sense.</p>
+            <p>
+               <note place="margin">Calv. In<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>tit. L. <hi>4.</hi> C. <hi>17.</hi> Sect: <hi>12.</hi>
+               </note>
+               <q rend="margQuotes">And first, truly we must not dream of such a presence of Christ in the Sacrament, as the Sophisters of the Court of <hi>Rome</hi> have invented; as if the Body of Christ locally present, were touched with our Hands, broken with our Teeth, and swallowed with our Mouth. For Pope <hi>Nicholas</hi> caus'd <hi>Berengarius</hi> to make this Form of Recantation. And <hi>Sect.</hi> 14.<note place="margin">
+                     <hi>Sect.</hi> 14.</note> Hence sprung that <hi>Transubstantiation,</hi> for which the <hi>Romanists</hi> contend more eagerly at this day, than for all other the Articles of their Faith— But it is a wonder that Men should deviate into such Stu<g ref="char:EOLhyphen"/>pity and Ignorance, as to bring forth such a Monster of Opinion, not only contrary to the express meaning of the Scripture, but the univer<g ref="char:EOLhyphen"/>sal Consent of the Ancient Church.</q> Many more might be set down, but by these the Reader may see what a Champion <hi>Calvin</hi> has been for <hi>Transubstantiation.</hi> And by this the Reader may judge what weight is to be laid as to the pretended acknowledgments of other Protestants in this point. But to take notice of all his Raileries against several Protestant Writers, would be too much labour, especially seeing any Intelligent Reader may easily discover them. Our Author afterwards falls foul of <hi>Beza,</hi> but Railery being his Talent, we must give him his way.</p>
+            <p>
+               <hi>From all these Premises,</hi> he says, <hi>That no one thing in the World is more unfit to be set up for a Test, than Transubstantiation.</hi> I wonder what he means? Has he found out any Churches acknowledging <hi>Transubstantiation</hi> but those of the Church of <hi>Rome?</hi> He has a strange way of arguing; but his Argument should run thus, Because all Protestants acknowledge a kind of presence of a Spiritual Nature, and which they profess them<g ref="char:EOLhyphen"/>selves that they do not determine what it is: Therefore it is a most un<g ref="char:EOLhyphen"/>reasonable thing to impose <hi>Transubstantiation,</hi> a thing plainly determined by the Church of <hi>Rome,</hi> as Matter of Abjuration, and then his Argu<g ref="char:EOLhyphen"/>ment would lose all its strength. Nor does any thing in the <hi>Test</hi> contra<g ref="char:EOLhyphen"/>dict the Opinion of any Protestants, so as it should be styled by our Au<g ref="char:EOLhyphen"/>thor, <hi>A Defiance to Christendom.</hi> For it only swears against that Real Presence which is maintained by the Church of <hi>Rome,</hi> and consists in the
+<pb n="5" facs="tcp:99622:4"/> Conversion or Transubstantiation into the Body and Blood of Christ after the Priests muttering the words, <hi>This is my Body.</hi>
+            </p>
+            <p>
+               <hi>The Church of</hi> England, he says, <hi>agrees with the Tradition of the Catholick Church both Roman and Reformed in Asserting the certainty of the Real Presence.</hi>
+               <note place="margin">
+                  <hi>Pag.</hi> 46.</note> A mighty Reconciler o' my word! We always thought that there was a vast dif<g ref="char:EOLhyphen"/>ference between us; but it seems our Author has had the happiness to end diffe<g ref="char:EOLhyphen"/>rences above any that have ever been before him.</p>
+            <p>But he comes in with his Exceptions,<note place="margin">Ibid.</note>
+               <hi>tho the true account of it hath been misera<g ref="char:EOLhyphen"/>bly perplexed and disturbed by the Oblique Practises of the Sacramentarians.</hi> Bene asseris Domine, male probas.</p>
+            <p>And to make good his accusation, he Libels Dr. <hi>St.</hi> as guilty of foisting in some Invisible Manuscript for his Opinion; for his words seem to import so much. But <hi>Quaere,</hi> Why the Learned Author held his Peace so long, when a Truth of such Consequence has suffer'd so much by his silence? He will give us a shrew'd Reason to suspect that he aims more at Preferment than discovery of Truth, else he would have mentioned these things before now. But how could these things be if the Real Presence were the general Opinion, not only of our Church, but of all the Protestant Churches? He goes on as much as he can to bespatter the Church whereof he pretends to be a Member, as suffering so ma<g ref="char:EOLhyphen"/>ny Innovations to be brought into her. And yet who those Innovators were he cannot tell; for says he <hi>(whoever they were.)</hi> A very probable business that Innovations should be brought in contrary to the general sense of a Church, and yet no body should know by whom. One would almost think by his arguing, that he had learned a little of the Mahumetan Sophistry. But let us hear what Innovations were brought in. <hi>It was made,</hi> says he,<note place="margin">
+                  <hi>pag.</hi> 47.</note>
+               <hi>in the 5th Year of the Kings Reign, tho precisely when and by what Persons is not known,</hi> &amp;c. It may be our Author has this from some Invisible Manuscript. For it is more like, that such a Tale in a Tub as this is should be of such Original, than that of Dr. <hi>St.</hi> It is no wonder if we cannot give a particular Account of what Corruptions were brought into the Church at a far greater distance of time, if our Author is to seek to make those appear that were so lately brought in. One thing is very much worth the Observing <hi>that</hi> Calvins <hi>Correspondency with the Protector gave a fatal blow to the Reformation.</hi>
+               <note place="margin">
+                  <hi>Pag.</hi> 51:</note> It is strange if <hi>Calvin</hi> brought in this Innovation as to the Real Pre<g ref="char:EOLhyphen"/>sence, when our Author pretends to bring him in above so much for it. I will not say he contradicts himself, but leave it to the Reader to Judge. But he goes on, They appoint this <hi>Zuinglian</hi> Form,<note place="margin">
+                  <hi>Pag.</hi> 52.</note>
+               <hi>Take and eat this</hi> (without men<g ref="char:EOLhyphen"/>tion of Body and Blood) <hi>in remembrance that Christ died for thee.</hi> I wonder how our Author can carp at this when it is almost the very words of our Saviour, <hi>Do this in Remembrance of me.</hi> And he goes on further that they were not satis<g ref="char:EOLhyphen"/>fied with the alteration of the Old Form, but added a fierce Declaration to bar the Doctrine of Real and Essential Presence, which see in the Rubrick after the Communion, and our Author sets it down at large. Our Author is of a very moderate Temper, who rather than want an Argument that Noblemen should not be imposed upon to swear to Intricacies and Falshoods, will render the Church he pretends to be a Member of Infamous; for so she must be if what he says be true, that she suffered such Innovations to be brought in contrary to her own and the sense of all Reformed Churches; and our Author himself likewise, for swearing those things at his admission. And his Authority may be valid a<g ref="char:EOLhyphen"/>gainst his Mother Church, especially when what he speaks reflects against him<g ref="char:EOLhyphen"/>self. However I find he is very good at the old way of Traducing, <hi>Fortiter ca<g ref="char:EOLhyphen"/>lumniare aliquid adhaerebit.</hi>
+            </p>
+            <pb n="6" facs="tcp:99622:5"/>
+            <p>One would almost think this a bold practice in a bold Writer thus to impose things which look so like Forgeries upon the World. Nay one could scarce think it lookt l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke sense to call that an Innovation, which according to his own Concession was brought in but in the 5th Year of K. <hi>Edward</hi> the VI. Reign, and consequently of the Reformation; unless our Author would likewise say that the whole Protestant Doctrine was an Innovation. Especially seeing neither could they whose Office it was to Reform, see through all things at first view; nor possi<g ref="char:EOLhyphen"/>bly, would they bring in all things requisite for a through Reformation at first, but first inform the Peoples Understandings as to the several gross Errors of the Church of <hi>Rome,</hi> that so they might remove the unjust Prejudices they might have had against them, which might have occasioned great Disturbance had they been at first Enacted.</p>
+            <p>
+               <note place="margin">
+                  <hi>pag.</hi> 53.</note>Dr. <hi>Burnet,</hi> says he, <hi>has often heard it said, that the Articles were fram'd by</hi> Cranmer <hi>and</hi> Ridley; <hi>but whoever told him so, knew no more than himself:</hi> and whoever tells him that it's not so, knows as little; and one would think, that he who contradicts an Historian, should bring at least as strong Reasons for it, as he whom he contradicts: And yet all that our Author brings to make his Charge good, is a Conjecture: For he says in the very next Paragraph; <hi>All that can be conjectured, is,</hi> &amp;c.</p>
+            <p>
+               <note place="margin">
+                  <hi>pag.</hi> 58.</note>He says, <q rend="margQuotes">That in the beginning of Queen <hi>Elizabeth</hi>'s Reign, when the Re<g ref="char:EOLhyphen"/>formation was setled in that state in which it ever after continued; and that new Declaration of the second Liturgy of King <hi>Edward,</hi> &amp;c. was rejected, and the first old Form of Distribution was restored, <hi>&amp;c.</hi>
+               </q> But if so, how comes it that our Author has produced no Instances of it from those who were then living? And how comes it that that Declaration is still extant in the Rubrick, that they acknowledge no Presence, save only after a Spiritual manner?</p>
+            <p>
+               <note place="margin">
+                  <hi>pag.</hi> 58, 59, <hi>&amp;c.</hi>
+               </note>He pretends that the most famous Divines of our Church, were stiff Avouch<g ref="char:EOLhyphen"/>ers of his Real Presence, and Instanceth in Bishop <hi>Andrews.</hi> But what he in<g ref="char:EOLhyphen"/>stanceth out of him, makes very little for his purpose, as appears by these words in his Citation: <hi>Only we define nothing rashly of its</hi> modus, <hi>neither do we curiously enquire into it, no more than how the Blood of Christ cleanseth us in our Baptism.</hi> Now seeing the Learned Bishop says that he will not curiously enquire into it no more than how the Blood of Christ cleanseth us in Baptism, and that is by all understood in a Spiritual sense (for no Church affirms that the Water must be turn'd into the Blood of Christ for the cleansing us) it must needs follow, that he likewise understood the Presence of Christ in a Spiritual sense, and consequently had no respect to a Corporal Presence. And whereas he alledges Bishop <hi>Poinet</hi> is of the same opinion, our Author would have done well, if he had read over that Citation of him in the Bishop of <hi>Durham</hi>'s History of <hi>Transubstantiation,</hi>
+               <note place="margin">Hist. Tran<g ref="char:EOLhyphen"/>substantia<g ref="char:EOLhyphen"/>tion, p. <hi>10.</hi>
+               </note> and he would have found these words at the close of it: <hi>Lastly, he affirms, ac<g ref="char:EOLhyphen"/>cording to the unanimous consent of the Fathers, That this Matter must be understood in a Spiritual sense, banishing all grosser and more carnal thoughts.</hi> And what these words import, let any man judge.</p>
+            <p>
+               <note place="margin">
+                  <hi>Art.</hi> 8. <hi>p.</hi> 283. <hi>Art.</hi> 14. <hi>p.</hi> 368. <hi>&amp;</hi> 382.</note>But because our Author is so much for Instances, I shall likewise set down a few.</p>
+            <p>The first is that of the Famous Bishop <hi>Jewel,</hi> in his Answer to <hi>Harding;</hi> who proves, <hi>That to give the honour of God to a Creature, is manifest Idolatry, as the Papists do in the Adoration of the Host,</hi> &amp;c. Which he would never have attempt<g ref="char:EOLhyphen"/>ed,<note place="margin">Disp. of Christian <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ubjection, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>t. <hi>4.</hi> p. <hi>319</hi>
+               </note> had he been for the Corporal Presence.</p>
+            <p>The next is that of Bishop <hi>Bilson,</hi> who proves the Church of <hi>Rome</hi> guilty of Idolatry; 1. <hi>In the worship of Images, the having of which was never Catholick;
+<pb n="7" facs="tcp:99622:5"/> and the Worshipping of them was ever wicked by the judgment of Christs Church,</hi> &amp;c. 2. <hi>In the Adoration of the Host;</hi> of which he Treats at large.</p>
+            <p>A third is of Bishop <hi>Taylor,</hi> in these words:<note place="margin">Real Pre<g ref="char:EOLhyphen"/>sence, p. <hi>15.</hi>
+               </note>
+               <q rend="margQuotes">Now by this Spiritual Presence of Christ, we understand Christ to be present, as the Spirit of God is present in the Hearts of the Faithful, by Blessing and Grace; and this is all that we mean, besides the Tropical and Figurative presence. And p. 14. We say Christs Body is in the Sacrament Really, but Spiritually; our meaning is, that it is present to our Spirits only; that is, so as Christ is not present to any other sense, but that of Faith, or spiritual susception. And p. 13. In the Sacra<g ref="char:EOLhyphen"/>ment is given us the true substance of Christs Body or Flesh, but not Carnally, but Spiritually; that is, not to our <hi>Mouths,</hi> but to our <hi>Hearts;</hi> not to be chew<g ref="char:EOLhyphen"/>ed by <hi>Teeth,</hi> but to be eaten by <hi>Faith.</hi> And p. 7. The Doctrine of the Church of <hi>England,</hi> and generally of the <hi>Protestants</hi> in this Article, is this, That after the Minister of the Holy Mysteries hath rightly prayed, and Consecrated the Bread and Wine, the Symbols become changed into the Body and Blood of Christ, after a Sacramental, that is, in a Spiritual Real manner; so that all that worthily Communicate, do by Faith receive Christ really, effectually to all the purposes of his Passion, the Wicked receiving not Christ, but the bare Symbols only.</q>
+            </p>
+            <p>Our Author <hi>after all,</hi> thinks he has made his Advers<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ries quit the Field,<note place="margin">
+                  <hi>pag.</hi> 62.</note> and <hi>leaves it to the Ingenuity of Mankind, to judge whether any thing can be more bar<g ref="char:EOLhyphen"/>barous, than to make the Renouncing a Mystery so univer<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ally received, a State TEST.</hi> (Not so barbarous neither, as to punish Dissenters with <hi>Pillories, Whipping Posts, Rods, Axes, Scourges, &amp;c.</hi>) And yet when he hath done his utmost, there is not one of all the above-cited, either Persons or Communities, save our dear Brethren of the Church of <hi>Rome,</hi> that approves of <hi>Transubstantiation,</hi> or the Conversion of the Bread and Wine into the very Body and Blood of <hi>Christ;</hi> which is the Particular swore against in the <hi>Test.</hi>
+            </p>
+            <p>He charges the Sacramentarians with profane Boldness,<note place="margin">
+                  <hi>pag.</hi> 6<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> for insisting on the Natural <hi>Impossibility</hi> of the Thing it self to the Divine Omnipotence, and so of prescribing Measures to the Divine Attributes: But he might as well say one were profanely bold, that should affirm, That it were not possible even to Divine Om<g ref="char:EOLhyphen"/>nipotence, that the Author <hi>Of the Reasons for Abrogating the Test,</hi> should at the same minute of time, both Write in favour of the <hi>Papists,</hi> and not write in fa<g ref="char:EOLhyphen"/>vour of the <hi>Papists,</hi> i. e. that it is impossible that our Author can at the same In<g ref="char:EOLhyphen"/>dividual Minute of time write for them and not write for them. For the other has been proved as manifest a contradiction as this is.</p>
+            <p>We shall not trouble the Reader with further tracing our Author as to this Point, it being a hard matter to find him any where. But shall briefly give an account of the rise of Transubstantiation, and then shew its Repugnancy to Scri<g ref="char:EOLhyphen"/>pture and Reason.</p>
+            <q>
+               <p>About the Year of our Lord 900, horrible darkness overspread the Church of Christ: Nothing of soundness either in Doctrine or Manners, the Popes, Bishops, Priests were Rude, Flagitious, Wicked, whence, that Age by Writers was called <hi>Ʋnhappy, Sad</hi> and <hi>Miserable.</hi> In so great Darkness what wonder is it if the grossest Errours prevailed? Then began that Opinion of <hi>Oral Eating</hi> of the Body of Christ in the Holy Supper. For <hi>Paschasius Ratbertus</hi> Abbot of <hi>Cor<g ref="char:EOLhyphen"/>bie,</hi> and <hi>Amalarius</hi> Bishop o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Trevir,</hi> introduced a kind of Substantial Conve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sion &amp; Presence. <hi>Rabanus Maurus</hi> Archbishop of <hi>Montz,</hi> and <hi>John Erigenae</hi> a <hi>Scot,</hi> a very Learned Man, who ac<g ref="char:EOLhyphen"/>knowledged only a Figurative Sense of the Words, which latter while he opposed that gross Manducation was Stabb'd by his Schollars with a Penknife at the Instinct of the Monks.</p>
+               <p>After that <hi>Berengarius</hi> Archdeacon of <hi>Andegavia,</hi> being very well seen in <hi>Augustines</hi> Writings vindicated the true Doctrine about the Holy Supper, teaching, <hi>That the Body &amp; Blood of Christ was
+<pb n="8" facs="tcp:99622:6"/> in the Bread and Wine not</hi> Substantially, <hi>but</hi> Sacramentally, and so rejected the <hi>Carnal Presence</hi> and <hi>Oral Manducation,</hi> tho he uttered it in hars<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and undigested expressions; <hi>Lanfranc</hi> vigo<g ref="char:EOLhyphen"/>rously opposed him, but chiefly upon this ground, <hi>That he was a Heret<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ck, because he dissented from the Church of</hi> Rome. <hi>Berengarius</hi> was condemn'd in a Synod at <hi>Vercelles</hi> under <hi>Leo</hi> IX. and at last under <hi>Nicholas</hi> II. in the <hi>Lateran</hi> Council in the Year 1059. through human Infirmity he revoked his Opinion, but being toucht with remorse, he wrote against that Revocation.</p>
+               <p>
+                  <hi>Berengarius</hi> being dead, the True and Ancient Doctrine he maintained, did not die with him. For it was still constantly maintained by St. <hi>Bernard,</hi>
+                  <note place="margin">
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>t. Bern. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>. <hi>1120.</hi>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>erm. de <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>aena Do<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ini Joh. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>. <hi>56—63.</hi>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>erm. de <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>urif. B. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ariae. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>erm. de <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>. Mart. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Exod. <hi>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>2.</hi> c. <hi>10.</hi>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>hrist A<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ric. in An<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>pist. p. <hi>13.</hi>
+                  </note> Abbot of <hi>Clairvaux,</hi> who lived about the beginning of the 12. Century: In his Discourse on the Lords Supper, he joyns together <hi>the outward Form of the Sacrament, and the Spiritual Efficacy of it.</hi> And in his Sermon on the <hi>Puri<g ref="char:EOLhyphen"/>fication,</hi> which none doubts to be his, he says, <hi>The Body of Christ in the Sacrament, is the Food of the Soul, not of the Belly; therefore we eat him not Corporally, but in the manner that Christ is Meat, in the same manner we understand that he is eaten.</hi> And in his Sermon on St. <hi>Martin; To this day,</hi> saith he, <hi>the same Flesh is given us, but Spiritually, therefore not Corporally.</hi>
+               </p>
+               <p>About the same time <hi>Rupertus,</hi> Abbot of <hi>Tuitium,</hi> taught also that the Bread and Wine in the <hi>Eucharist</hi> are not converted into the Body and Blood of Christ: His words are these; <hi>You must attribute all to the Operation of the Holy Ghost, who never spoils or destroys any Substance he useth but to that natural Goodness at had before, adds an invisible Excellency which it had not.</hi>
+               </p>
+               <p>
+                  <hi>Otho,</hi> Bishop of <hi>Frisingen,</hi> a Man every way Famous, lived in the same Age; and he also believed, and writ, <hi>That the Bread and Wine remain in the Eucharist.</hi>
+               </p>
+               <p>As for the word <hi>Transubstantiation,</hi> it's hardly to be found before the middle of this Centu<g ref="char:EOLhyphen"/>ry: For the first that m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntion it, are<note n="a" place="margin">
+                     <hi>Ep.</hi> 140</note>
+                  <hi>Petrus Blesensis,</hi> who lived under Pope <hi>Alexander</hi> the 3d. and<note n="b" place="margin">de Sacr. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ltaris in <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>. patrum.</note>
+                  <hi>Stephen Eduensis,</hi> whose Age and Writings are very doubtful.</p>
+               <p>In the 13. Century the Bishop of <hi>Rome</hi> began to exalt himself, not only over the Universal Church, but even over all the Empires and Kingdoms of the World. New Orders of Friars sprung up in this Age, who disputed fiercely against many Doctrines of the Antient and Purer Church, and amongst the rest, against that of the Sacrament of the Body and Blood of Christ. So that now there remained nothing but to Confirm this new Tenet, and impose i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> so perem<g ref="char:EOLhyphen"/>ptorily in the Christian World, that none durst hiss against it. This Pope <hi>Innocent</hi> the Third bravely performed. Who succeeding <hi>Celestine</hi> the 3d. at 30. years of age, and following briskly the footsteps of <hi>Hildebrand,</hi> call<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d a Council at <hi>Rome</hi> in St. <hi>John Lateran,</hi> &amp; was the first that ever made the New-devised Doctrine of <hi>Transubstantiation,</hi> an Article of Faith necessary to Salvation.</p>
+               <p>This is that <hi>Innocent,</hi> who to enlarge his Authority, wrought great Troubles to the Emperor <hi>Philip;</hi> stript <hi>Otho</hi> the 4th. of the Empire; forced <hi>John,</hi> King of <hi>England,</hi> to yield up into his hand this Kingdom,<note place="margin">
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Hist. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>an Regis <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ngliae. Mat. Par. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Hist. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>in. in <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>latin. in <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>it. Innoc.</note> and that of <hi>Ireland,</hi> and made them Tributary to the See of <hi>Rome. He was proud and ambitious</hi> (says <hi>Mat. Paris) and ever ready to commit the most wicked Villanies, so he might be recompensed for it.</hi> This was the Man, who in his <hi>Lateran Council</hi> pronounced that <hi>Transubstantiation</hi> should be made an Article of Faith; and when the Council would not grant is, did himself by his own Arbitrary Power, against which none durst open his Mouth. For those Canons which at this day go under the name of the Council, are none of his, but meerly the Decrees of Pope <hi>Innocent,</hi> first writ by him, &amp; read in the Council, and disliked by many, and afterward set down in the Book of Decretals under certain Titles, by his Nephew <hi>Gregory</hi> the 9th.</p>
+               <p>Having thus given a breif account of the rise of this gross Heresie, I shall now endeavour to shew the gross Absurdity of it by the following Arguments.</p>
+               <p n="1">
+                  <note place="margin">
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>at. Par. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Hist. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>l An. <hi>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>15.</hi>
+                  </note>1. This Opinion makes <hi>Christ</hi> guilty of gross Nonsense in his Institution of the Holy Supper. For his words are; <hi>Take, eat; this is my Body; do this in Remembrance of me.</hi> Now if that Bread had been <hi>Christs</hi> real Body after Consecration, his saying, <hi>Do this in remembrance of me,</hi> must have been Egregious Nonsense. For we neither do nor can remember things present, the act of Memory or Remembrance being such as always respects a Thing absent or past.</p>
+               <p n="2">2. This Opinion infers, that God deludes his Creatures, which so much as to think of him is most horrible Blasphemy. But if it were true, that after Consecration the Wafer and Wine were become the Body and Blood of <hi>Christ,</hi> then must it be of necessity said, that God deluded his Creatures, for he represents it to all the Senses; under the same appearance as before Consecra<g ref="char:EOLhyphen"/>tion, and yet as they say, it is quite another thing; to wit, the Body and Blood of <hi>Christ.</hi> And can there be greater Juggling in the World than this would be? And suppose this to be a Damna<g ref="char:EOLhyphen"/>ble Mistake, should not he positively be the cause of their Sin, and consequently damn them for that which they had all the reason in the world to adhere to, seeing that they were to adhere to the testimony of their Senses, in so far as they were capable of perceiving Material Objects. And the Body of Christ being Material, can be prescribed by the Senses, and so cannot be reckoned among those Mysteries the Apostle speaks of, which Eye hath not seen, nor hath
+<pb n="9" facs="tcp:99622:6"/> nor heart perceive, <hi>&amp;c.</hi> For those things the Apostle speaks of, are things of an im<g ref="char:EOLhyphen"/>material and spiritual Nature, which cannot by themselves make any Impression on the Senses, and besides, otherwise transcend the thoughts of Men, such as the My<g ref="char:EOLhyphen"/>stery of the <hi>Trinity,</hi> &amp;c. But that cannot be said of the <hi>Body of</hi> Christ, seeing Eyes have seen it, and as a Body, it could enter into the Heart of Man to conceive of it, as being corporeal and finite.</p>
+            </q>
+            <p n="3">3. A Sacrament or Sign, is different from that thing whose Sign and Sacrament it is. Now, they must all acknowledge, that the <hi>Bread</hi> and <hi>Wine,</hi> even after <hi>Consecra<g ref="char:EOLhyphen"/>tion,</hi> (for before it cannot be called a Sacrament) is a Sacrament or Sign of the <hi>Body</hi> and <hi>Blood</hi> of <hi>Christ;</hi> therefore, even after Consecration, it is different from the <hi>Body</hi> and <hi>Blood</hi> of <hi>Christ.</hi> The Proposition is clear, for it is a notorious contradiction, to say the thing signifying, and the thing signified, are one and the same thing, and as much as to say, the thing signified, is not the thing signified, <hi>&amp;c.</hi> which to any will appear.</p>
+            <p n="4">4. If in Baptism, after Consecration, the Water is not turned into the <hi>Blood</hi> of <hi>Christ,</hi> then in the <hi>Lords Supper,</hi> the <hi>Bread</hi> and <hi>Wine,</hi> after Consecration, is not tur<g ref="char:EOLhyphen"/>ned into the <hi>Body</hi> and <hi>Blood</hi> of <hi>Christ:</hi> But that in <hi>Baptism,</hi> the Water is not chang<g ref="char:EOLhyphen"/>ed into the <hi>Blood</hi> of <hi>Christ,</hi> all are agreed, Therefore not in the <hi>Lords Supper.</hi> The Consequence is clear, For <hi>Baptism</hi> is the Initiating Sacrament, and begets as it were a new Creation in the Soul, or Regeneration, as our Saviour terms it, whereas by the <hi>Lords Supper,</hi> that Image that is Created is kept up; which is no greater work at least than the first creating of it. And if so be that that first change is be<g ref="char:EOLhyphen"/>got in the Soul, without <hi>Transubstantiating</hi> the Water into the <hi>Blood</hi> of <hi>Christ,</hi> by the Power of God unknown to us, why should we assert that in order to the <hi>Lords Supper</hi>'s operating its blessed Effect upon the Soul, the <hi>Bread</hi> and <hi>Wine</hi> therein made use of, must be <hi>Transubstantiated</hi> into the <hi>Body</hi> and <hi>Blood</hi> of our <hi>Lord?</hi> For the Parity holds.</p>
+            <p>I shall add some Instances out of the Fathers, to shew that that Doctrine of the <hi>Real Presence</hi> (as the <hi>Romanists</hi> hold it) was not heard of in their days.</p>
+            <p>
+               <hi>Theodoret</hi> says,<note place="margin">Dial.</note>
+               <hi>Jesus Christ hath Honoured the Visible Symbols with the Name of his</hi> Body and Blood, <hi>not in changing their Nature, but in adding the Grace.</hi>
+            </p>
+            <p>
+               <hi>The Bread of the Sacrament,</hi> saith <hi>Chrysostome, is called Bread before it is Sanctified;</hi>
+               <note place="margin">Epist: Caesar.</note>
+               <hi>but Divine Grace having Sanctified it by the Ministry of the Priest, it is no longer called</hi> Bread, <hi>but it is judged Worthy to be called the</hi> Body of Christ.</p>
+            <p>Pope <hi>Gelasius,</hi> at the end of the Ninth <hi>Century: Certainly,</hi> saith he,<note place="margin">Gelas. duabus Christ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> tur. ad Nestor. Eutych<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Concil. Const. Act. N<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>2.</hi> Act.<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note>
+               <hi>the Sacra<g ref="char:EOLhyphen"/>ments of the</hi> Body and Blood <hi>of</hi> Christ, <hi>which you receive, are something that is Divine; whence also it is, That by them we are made Partakers of the Divine Nature; and ne<g ref="char:EOLhyphen"/>vertheless they still retain the Nature and Substance of</hi> Bread <hi>and</hi> Wine.</p>
+            <p>A Council of the <hi>East,</hi> Assembled at <hi>Constantinople, Anno</hi> 754. declares, <hi>That</hi> Jesus Christ <hi>Commanded us to offer the-Image of his Body, a Thing chosen, to wit, the Substance of the</hi> Bread.</p>
+            <p>Innumerable more might have been produced, to prove that it was the constant received Opinion, even till the <hi>Ninth Century;</hi> For the first that ever Wrote against it, was, that <hi>Paschasius Ratbertus,</hi> made mention of above.</p>
+            <p>This gross Opinion had its Original from a gross and carnal Understanding of <hi>Christ</hi>'s Words, <hi>John</hi> the 6. And if any consider the occasion of that Discourse, they will find no such Doctrine designed by <hi>Christ;</hi> For it was occasioned from the <hi>Jews</hi> following <hi>Christ,</hi> because they had been filled by a <hi>Miracle. Christ</hi> tells them, <hi>They must Labour for the true Food of the Soul,</hi> to wit, Himself; and thence makes a comparison between <hi>Bread,</hi> which is the Food of the Body, ad <hi>Himself,</hi> who is the true Nourishment of the Soul: And all along shews, that the Food of the Body Pe<g ref="char:EOLhyphen"/>risheth,
+<pb n="10" facs="tcp:99622:7"/> but that of the Soul endureth for ever; after the same manner that he spake of the <hi>Living Water,</hi> to the Woman of <hi>Samaria, John</hi> 4. And when the Multitude supposing him to mean by these Words, <hi>Except ye Eat the Flesh, and Drink the Blood of the Son of Man, ye shall not have Life in you;</hi> that they must Carnally and Orally Eat his very <hi>Body,</hi>
+               <note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>. 53.</note> which was then speaking to them; they lookt upon his Doctrine as Salvageness it self; and from that Time many went away from him: And while his Disciples themselves Murmured at it, he saith unto them, <hi>Does this offend you?</hi> Ver. 62. <hi>What if you see the Son of Man go up where he was at first?</hi> 63. <hi>It is the Spirit that quickeneth, the Flesh profiteth nothing; The Words that I speak, they are Spirit and Life:</hi> From which, it is plain, That he designed nothing less than this Oral Manducation; For the eating of Man's Flesh, but more especially the eat<g ref="char:EOLhyphen"/>ing of what they Worshipt, hath been among all Nations accounted abominable.</p>
+            <p>
+               <note place="margin">
+                  <hi>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>at.</hi> 3.</note>And hence, says <hi>Cicero, When we call Wine,</hi> Bacehus, <hi>and our Fruits,</hi> Ceres, <hi>we use the common manner of speaking; but do you think any of us to be so Mad, as to ac<g ref="char:EOLhyphen"/>count that which he Eats to be his</hi> God?</p>
+            <p>And <hi>Averrhoes,</hi> a Famous Heathen Philosopher, who lived about the <hi>Eleventh Century,</hi> when this Monstrous Doctrine of <hi>Oral Manducation</hi> had a little obtain'd in the <hi>Christian</hi> Church, expressed himself thus against it: <hi>I have enquired into all Religions,</hi>
+               <note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <hi>Per<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>le <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> l.</hi> 3. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>. 973.</note>
+               <hi>and have found none more foolish than the</hi> Christians, <hi>because that very</hi> God <hi>they Worship, they with their Teeth devour:</hi> And concludes thus, <hi>Because the</hi> Christians <hi>Eat what they do Worship, let my Soul go to the</hi> Philosophers. Hence the <hi>Mahometans,</hi> as the highest Calumny they can cast upon us, reproach us, <hi>As Devourers of our God.</hi> Nay, they affirm, That by thus eating of his <hi>Flesh,</hi> the <hi>Chri<g ref="char:EOLhyphen"/>stians</hi> use him worse than the <hi>Jews</hi> did, who Crucified Him; <hi>Because,</hi> say they, <hi>it is more Salvage to Eat his Flesh, and Drink his Blood, than only to procure his Death.</hi>
+            </p>
+            <p>It is observable, That from some Hereticks of the <hi>First Century,</hi> the <hi>Capernaists,</hi> &amp;c. gross Interpretation of the 6 <hi>Chapter</hi> of St. <hi>John</hi>'s Gospel, sprung that abomi<g ref="char:EOLhyphen"/>nable Custom, of initiating them with a draught of an Infants Blood, and eating the Flesh of it; which Barbarous Custom is supposed to owe its Original to <hi>Simon Magus.</hi> And the <hi>Heathens</hi> of those days, charged the Practise of those Monstrous Hereticks on the True Church of <hi>Christ:</hi>
+               <note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>. de <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>en.</note> Of which <hi>Salvianus</hi> saith thus, <hi>They sup<g ref="char:EOLhyphen"/>posed that we were initiated into our Religion by two abominable Villanies, by</hi> Incest <hi>and</hi> Murther: Incest <hi>of the Holy</hi> Matrons, <hi>and</hi> Murther <hi>of</hi> Infants; <hi>who, they believe, were not only Butchered, but likewise Devoured by us.</hi>
+            </p>
+            <p>We next proceed to our <hi>Authors</hi> second Head, to wit, of <hi>Idolatry,</hi> where we shall first consider it as to Image Worship, and secondly, as to Invocation of Saints, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 69. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.</note>Our <hi>Author,</hi> first holds out what a damnable Sin this is; and truly, in that we agree with him. And therefore he takes it very Hainously; <hi>Such an Indictment should be preferred against the greatest part of</hi> Christendom; and truly if there were not strong Presumption at least for it, they were very much to blame of breach of Charity that attempted it.</p>
+            <p>But in this Case, we may justly say to the Author, <hi>Medice cura teipsum;</hi> for no Man could prefer a Bloodier <hi>Indictment</hi> against that best part of <hi>Christendom</hi> than he,<note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>. Ec<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>olit. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>286.</hi>
+               </note> while he said, <hi>We Condemn neither</hi> Turk <hi>nor</hi> Papist, <hi>on any other ground than this, that the one gives Worship to a Lewd</hi> Impostor, <hi>the other, to a senceless piece of</hi> Matter.</p>
+            <p>He desires, <hi>Men would lay aside their Indecent Heats, and Soberly enquire into the Nature, and Original of</hi> Idolatry: And concludes his Paragraph, with, <hi>Wishing to</hi> God <hi>there be nothing worse at the bottom of it, seeing it has always been set up as the Standard against</hi> Monarchy. I thought always that to be a more dangerous Stan<g ref="char:EOLhyphen"/>dard set up against <hi>Monarchy,</hi> of the <hi>Popes</hi> takeing upon them to Excommunicate
+<pb n="11" facs="tcp:99622:7"/> Kings: Inferiour <hi>Priests</hi> and <hi>Friers,</hi> such as, <hi>Ravillac</hi> and <hi>Clement,</hi> Murdering them (and yet the same Assassinates justified in their Barbarous Murder, by the <hi>Popes</hi> themselves, or they are basely Belyed) than any Notion of <hi>Idolatry.</hi> But, that out <hi>Author</hi> may remember, That, Men as <hi>Loyal</hi> as himself, and as far from being <hi>Fanatical</hi> or <hi>Ʋnlearned,</hi> have entertained different Notions of <hi>Idolatry,</hi> from his I shall Insert the following Passages.</p>
+            <p>Bishop <hi>Whitgift</hi> saith, <hi>I do as much mislike the distinction of the</hi> Papists,<note place="margin">Defence the Answ<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of the A<g ref="char:EOLunhyphen"/>m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n. Tr. <hi>8.</hi> p. <hi>152</hi>
+               </note>
+               <hi>and the in<g ref="char:EOLhyphen"/>tent of it, as any Man doth, neither do I go about to excuse them from Wickedness, and (without Repentance and</hi> God's <hi>singular Mercy,) damnable</hi> Idolatry. <hi>There are three kinds of</hi> Idolatry; <hi>one is, when the true</hi> God <hi>is Worshiped by other means and ways than he hath prescribed, or would be Worshiped. The other, is when the True</hi> God <hi>is Worshiped with False</hi> God<hi>'s. The</hi> third, <hi>is when we Worship False</hi> God<hi>'s, either in Heart, Mind, or in external Creatures, Living or Dead; and altogether for<g ref="char:EOLhyphen"/>get the Worship of the True</hi> God. <hi>All these three kinds are detestable, but the</hi> first <hi>is the least, and the</hi> last <hi>the worst. The</hi> Papists <hi>Worship</hi> God, <hi>otherwise than his Will is, and otherwise than he hath Prescribed, almost in all points of their Worship; they also give to the Creature, that which is due to the Creature, and Sin against the first Table; yet are they not, for all that I can see or learn, in the third kind of</hi> Idolatry.</p>
+            <p>Bishop <hi>Abbot,</hi> in his Answer to <hi>Bishop,</hi> affirmeth, <hi>That the Church of</hi> Rome,<note place="margin">
+                  <hi>Tom.</hi> 2. <hi>Pag.</hi> 110</note>
+               <hi>by the</hi> Worship of Images, <hi>hath matched all the</hi> Idolatries <hi>of the</hi> Heathens, <hi>and brought all their Jugling devices into the Church; abusing the Ignorance and Simpli<g ref="char:EOLhyphen"/>city of the People, as</hi> Grosly <hi>and</hi> Damnably, <hi>as ever they did.</hi>
+            </p>
+            <p>Arch Bishop <hi>Laud,</hi> in his Conference, saith,<note place="margin">
+                  <hi>Pag.</hi> 277.</note>
+               <hi>The Antient Church knew not the Adoration of</hi> Images; <hi>and the Modern Church of</hi> Rome <hi>is too like to</hi> Paganism, <hi>in the practice of it, and driven to Scarce Intelligible Subtilities in her Servants Writings, that defend it, and this without any Care had of Millions of Souls, unable to under<g ref="char:EOLhyphen"/>stand her Subtilities, or shun her</hi> Practise.</p>
+            <p>I hope our <hi>Author,</hi> will not call these Learned Writers <hi>Fanatical, Ʋnlearned,</hi> or <hi>Ʋncharitable,</hi> &amp;c. And yet they here prefer a Bloody Indictment against the great<g ref="char:EOLhyphen"/>est part of <hi>Christendom.</hi>
+            </p>
+            <p>To pass by his Notions, at the first Corruption of the World by <hi>Idolatry,</hi>
+               <note place="margin">
+                  <hi>Pag.</hi> 77.</note> He says, <hi>As soon as the</hi> Israelites <hi>sat down at the Foot of Mount</hi> Sinah, God<hi>'s care was to make further provision against</hi> Idolatry, <hi>where he gives the</hi> Ten Commandments; <hi>where<g ref="char:EOLhyphen"/>of the first four, are directly levelled against</hi> Idolatry. <hi>Let us see how he makes good his Argument.</hi>
+            </p>
+            <p>
+               <hi>First,</hi> says he, <hi>He enjoyns the Wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ship of himself, who, by his Almighty Power,</hi>
+               <note place="margin">Ibid.</note>
+               <hi>has delivered them from their</hi> Egyptian <hi>Bondage.</hi>
+            </p>
+            <p>Observe, how Candidly our <hi>Author</hi> Comments upon the First <hi>Commandment,</hi> set<g ref="char:EOLhyphen"/>ting down only the Positive part thereof, whereas it has also a Negative Sense, as appea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s from the very Words. <hi>Thou shalt have no other</hi> God's <hi>before Me.</hi> And this is a very cunning Artifice of his; the most probable way to explain it, so as to vindicate them from the charge of <hi>Idolatry:</hi> For if this <hi>Command</hi> run only <hi>Positive,</hi> and the second <hi>Negative,</hi> then he would have a very great advantage: The <hi>first</hi> would run so, <hi>Thou shalt pay me that Worship that is due to me:</hi> And the <hi>second;</hi> thus, <hi>Thou shalt not pay that Worship which is due to me, to any</hi> Graven Image.</p>
+            <p>Had the <hi>Romanists</hi> thought of this way of maintaining the first and second <hi>Com<g ref="char:EOLhyphen"/>mands</hi> to be different, so as to be yet free from any charge of <hi>Idolatry;</hi> in their Wor<g ref="char:EOLhyphen"/>shipping of <hi>Images,</hi> they might have freed themselves of that suspicious Guilt, incur<g ref="char:EOLhyphen"/>red by expunging the Second: For it argues a Guilt in them, in so far at least, that they fear the Common People would take that to be the plain and obvious Meaning
+<pb n="12" facs="tcp:99622:8"/> of it; which we maintain, and consequentl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> might suspect them of Jugling in this point. And I humbly-think, our <hi>Author,</hi> seeing he is so much in their Vindication, might have said somewhat in their Justification, as to that Cancelling of the Second <hi>Commandment;</hi> especially when there lies so heavy a Curse upon those, who either add to, or diminish from the Law of <hi>God.</hi>
+            </p>
+            <p>But that his Notion will not hold Good, appears by the Words themselves, <hi>Thou shalt have no other</hi> God s <hi>before me:</hi> That is, I am the only True <hi>God,</hi> who Created the World, and all things therein; preserve them by my Omnipotent Arm, and besides those common Providences, have manifested a particular Care over you, in bring<g ref="char:EOLhyphen"/>ing you out of the Land of <hi>Egypt;</hi> and expect that you especially Worship and Adore me, and none but me: And so, here the Lord sheweth them the True Object of Worship; to wit, that it is neither <hi>Sun, Moon,</hi> nor <hi>Stars,</hi> &amp;c. but himself alone; and consequently prohibits in this <hi>Commandment,</hi> the Adoration of <hi>Sun, Moon,</hi> and <hi>Stars,</hi> and all other false <hi>Gods.</hi>
+            </p>
+            <p>Our <hi>Author</hi> is no less Ingenuous in his Explication of the Second <hi>Command,</hi> for he leaves out the most material Word in it, <hi>Make,</hi> which very Word will Mar his True, and only Notion of <hi>Idolatry;</hi> to wit, Worship of the <hi>Sun,</hi> &amp;c. For, certainly <hi>God</hi> would not forbid them to make the <hi>Sun,</hi> for that was above their Power. Nor, <hi>Secondly,</hi> can he be said here meerly to forbid making an <hi>Image</hi> of the <hi>Sun,</hi> as a Symbol of it; for the Worship of the <hi>Sun</hi> it self, being forbid in the <hi>First Command,</hi> as also all other false Deities; none could be so Brutish, as to imagine that <hi>God</hi> would take up a New <hi>Commandment,</hi> in forbidding to make or Worship the Image of those false Deities. It remains therefore, That the Second <hi>Commandment</hi> must run thus, <hi>Thou shalt not make any Representation or likeness of Me, nor shalt Worship me, by any likeness or Representation of me, by any thing that is in Heaven, on Earth, or in the</hi> Waters <hi>under the</hi> Earth; which was as plain as could have been said, <hi>Ye shall make, nor bow down to no Representation or likeness whatsoever.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>t.</hi> 4.5.</note>And, That this is the scope of this <hi>Commandment,</hi> may further appear, from <hi>Deut.</hi> 4.15, 16, 17, 18, 19. where the Lord himself explains that <hi>Command,</hi> ver. 15. <hi>Take ye therefore good heed unto your selves:</hi> [As if he had said, I know you are strangely byast from the True way of Adoring me, which I have appointed; and are very prone to set up a way after your own Invention; to wit, by making a visible Representation of me, which is highly derogatory to my Glory; and there<g ref="char:EOLhyphen"/>fore I warn you, over and over again, take heed to your selves] (<hi>for you saw no manner of similitude, on the day that the Lord spake unto you out of</hi> Horeb, <hi>out of the midst of the Fire.</hi>) q. d. Had I design'd that you should make any External Likeness or Similitude, or Representation of Me, I would have appeared to you in some Similitude, and appointed you to Worship me under that Similitude; but I did it not, and I do hereby shew you, That I did not appear to you in any Simi<g ref="char:EOLhyphen"/>litude, that you might not presume to Worship me, under any Similitude, which is so odious to me.<note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 16. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 17.</note>
+               <hi>Ver.</hi> 16. <hi>Lest you corrupt your selves, and make you a Graven</hi> Image, <hi>the similitude of any Figure, the likeness of Male and Female,</hi> 17. <hi>The like<g ref="char:EOLhyphen"/>ness of any</hi> Beast <hi>that is on the</hi> Earth, <hi>the likeness of any winged</hi> Fowl, <hi>that is on the</hi> Earth; <hi>the likeness of any thing that creepeth on the Ground,</hi> &amp;c. A sufficient enu<g ref="char:EOLhyphen"/>meration of all the kinds of likenesses, and does necessarily import thus much, Thou shalt make no <hi>Graven Image,</hi> nor no likeness of any Thing, to make use of in those Acts of Adoration which are due to me, as I am Soveraign Creator of all Things,<note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 8.</note> and your <hi>God</hi> by a special Relation. Then, <hi>Ver.</hi> 18. he proceeds to cau<g ref="char:EOLhyphen"/>tion them to beware of a more gross sort of <hi>Idolatry,</hi> which strikes immediately against the <hi>First Commandment: And lest thou lift up thine Eyes unto Heaven,
+<pb n="13" facs="tcp:99622:8"/> Heaven, and when thou seest the</hi> Sun <hi>and the</hi> Moon, <hi>and the</hi> Stars, <hi>even all the Host of</hi> Heaven, <hi>thou shouldest be driven to Worship them, and Serve them, which the</hi> Lord <hi>thy</hi> God <hi>hath divided unto all</hi> Nations <hi>under the whole</hi> Heaven. Nothing can be more plain, Than that there are two kinds of <hi>Idolatry</hi> forbidden here; to wit, <hi>Lest you corrupt your selves, and make a</hi> Graven Image; <hi>and lest that when thou seest the</hi> Sun, <hi>&amp;c. thou</hi> Worship <hi>them, and</hi> Serve <hi>them:</hi> And therefore, that of worshipping the <hi>Sun, Moon,</hi> &amp;c. is not the true and only Notion of <hi>Idolatry:</hi> And if we observe the Order of the two sorts of <hi>Idolatry,</hi> mentioned above, they give us no small hint how the one disposeth People to receive the other, even on this account, as it is the Na<g ref="char:EOLhyphen"/>ture of all Sin, and particularly of this which <hi>God</hi> has declared to be so dishonour<g ref="char:EOLhyphen"/>able to him, to darken the Powers of the Soul, and weaken the <hi>Conscience,</hi> which is that <hi>Primum Mobile</hi> in the Soul; and if pure, the whole Soul keeps right in its Mo<g ref="char:EOLhyphen"/>tion; but if once defiled, the whole frame of the Soul turns into Confusion, and be<g ref="char:EOLhyphen"/>comes Captive to the Sensitive Part, and then who knows what horrid Abominations the Soul may be guilty of. And it is likewise very usual with <hi>God,</hi> when People thus dishonour him, not only to withdraw his Holy Spirit from them, but even actually to harden them, as he did <hi>Pharoah,</hi> when he would not let his People go. This is clearly pointed at in <hi>Act.</hi> 7.41, 42. <hi>And they made a Calf in those Days, and Offered Sacri<g ref="char:EOLhyphen"/>fice unto Idols, and rejoyced in the works of their own hands; then</hi> God <hi>turned and gave them up to worship the Host of</hi> Heaven. Most plainly pointing at two sorts of <hi>Idola<g ref="char:EOLhyphen"/>try;</hi> and the one consequent upon another, as a just Punishment inflicted on them by <hi>God,</hi> for their dishonouring Him in making Symbols, and Representations of Him. I am afraid our Author's true, and only Notion of <hi>Idolatry,</hi> will scarce en<g ref="char:EOLhyphen"/>dure the <hi>Test.</hi>
+            </p>
+            <p>I now proceed to his Comment upon the <hi>Third Command;</hi> and thus you have him: <hi>The</hi> English <hi>of the Third,</hi> says he, <hi>if it were rightly Translated, runs thus;</hi> Thou shalt not give the Name of the Lord thy <hi>God</hi> to a Vanity or Idol: A strange Version of it. I desire to know how by this Sense, on this <hi>Command,</hi> the Reverend <hi>Author</hi> will prove those Persons Guilty of <hi>Perjury,</hi> who gave the first Birth and Original to the <hi>Test.</hi> For, allowing of this Interpretation, they cannot be guilty of Perjury, by affirmng a Lye, by the Name of the True God, in so far as they never gave the Name of God to a Vanity and Idols. But to wave this, I am sure the Debauchee's of the Nation, the Dammee's, that make it their constant Practice to tear the Sacred Name of God, must needs have a great. Vene<g ref="char:EOLhyphen"/>ration for our Author; for they never had such favourable Entertainment from any that ever we heard of before; for in their common Oaths they do not give the Name of God to an Idol, and so were only traduced before by Anticatholick, Un<g ref="char:EOLhyphen"/>christian, and Fanatical Notions of Blasphemy, whereas they were guilty of no such thing. Would our Author put but such a Catholick and truly Christian sense upon three or four more of the Commandments, I cannot see but that Party were obliged to return Thanks to him from all parts of the Nation, for delivering them from those Torments the Fanatical Notions of Men about that they call'd Sin hath created to them. But by our Author's leave, however he pretends the <hi>Septuagint</hi> renders it; yet 'tis plain that it was never a generally receiv'd sense among the People of the <hi>Jews,</hi> as appears by their great Reverence to the Name of God, particularly that great Name by which he manifested himself, <hi>viz. Jehovah,</hi> which they pronounced but very seldom, and that upon very solemn occasions.</p>
+            <p>And tho our Author determines the only design of God in the Fourth Command<g ref="char:EOLhyphen"/>ment, to be only to keep People from Idolatry; yet I doubt not;<note place="margin">
+                  <hi>Pag.</hi> 7<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> but God had other ends, to wit, the advancing of true Holiness; for its possible that a Church may be
+<pb n="14" facs="tcp:99622:9"/> free from any sort of our Authors Idolatry, and yet be abhorred by God, like that People of whom our Saviour spake, <hi>That drew to him with their Lips, but their Hearts were far from him.</hi> And that Church in <hi>Laodicea,</hi> in the <hi>New Testament,</hi> could not be charged with <hi>Idolatry,</hi> and yet was loathsome in Gods account.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 81.</note>He instances the <hi>Golden Calf</hi> set up by the <hi>Israelites</hi> in <hi>Moses</hi> absence, and he con<g ref="char:EOLhyphen"/>cludes, that it was nothing else than an old <hi>Egyptian</hi> Idol: But I would seriously ask our Author, how it could be possible that the <hi>Israelites</hi> did Worship the <hi>Calf</hi> as the Symbol of some <hi>Egyptian</hi> Deity, as he alledges. For first, the occasion of it was, not on the least pretence of Infidelity as to the true God, but only because <hi>Moses</hi> had been so long absent from them, and they knew not what was become of him, and therefore they bid <hi>Aaron</hi> make them Gods that should go before them. Now, it cannot be supposed, that they could have been so strangely stupid, as to have Worshipped the <hi>Egyptian</hi> Gods at that time, if we consider what manifold wonders the True God wrought for them in the Land of <hi>Egypt,</hi> how heavily he laid his Hand upon the <hi>Egyptians,</hi> and yet in the mean while preserved them from those Plagues; they could not then be ignorant that the God whom they Worship<g ref="char:EOLhyphen"/>ped, was of infinitely greater power than those the <hi>Egyptians</hi> worshipped. And they could not have so soon forgot that great Deliverance he wrought for them at the <hi>Red Sea,</hi> when the <hi>Egyptians</hi> were Drowned; they could not certainly but be then sensible that the God they served, was of infinitely greater Power than those the <hi>Egyptians</hi> worshipped. And but a little before, the Law was promulgated with Thunderings and Lightnings: Is it possible they could so soon have shaken off the dread of that God who had appeared so terrible to them? And further, even at this very time, when this Image was made, he Miraculously fed them with <hi>Manna,</hi> they could not but remember that they were never fed so in <hi>Egypt,</hi> and so they could not but acknowledge that that great God was infinitely to be prefer<g ref="char:EOLhyphen"/>ed before the <hi>Egyptian</hi> Gods. But that very passage above cited of St. <hi>Stephen, They made a Calf in those Days, and Offered to the works of their own Hands,</hi> (certainly then not to the Sun, for that was not the work of their Hands) <hi>then</hi> God <hi>turned, and gave them up to Worship the</hi> Host of Heaven. Now, how could it be said, that he gave them up to Worship the <hi>Host of Heaven,</hi> if they were guilty of that <hi>Idola<g ref="char:EOLhyphen"/>try</hi> then, when they Worshipped the Calf. <hi>Lastly,</hi> There is no Imitation given in the whole Story, that they fell into the Heathen <hi>Idolatry;</hi> for afterwards, when they fell into it, the particular Names of the God's are mentioned, as, <hi>Baal-Peor, Moloch, Remphan.</hi>
+            </p>
+            <p>But here on the contrary, <hi>Aaron</hi> expresly proclaims <hi>A Feast to the Lord,</hi> and the People accordingly met, and Offered their usual Offerings; whereas, had it been the <hi>Egyptian Idolatry,</hi> their common Sacrifices would have been Abominations; they must not have Sacrific'd Sheep and Oxen as they were wont to do, as our <hi>Author</hi> himself acknowledges.</p>
+            <p>Our <hi>Author,</hi> next mentions the Calves set up by <hi>Jeroboam,</hi> 1 <hi>Kings.</hi> 22.20.27. And he saith, <hi>Its plain, that these Calves were set up by him, as Idols or Symbols of a new or Separate Religion from the Tribe of</hi> Judah. It is plain <hi>Jeroboam</hi>'s design was not to pervert the People from the Worship of the <hi>True God,</hi> to that of the <hi>Hea<g ref="char:EOLhyphen"/>then Idols,</hi> but only to divert the People of <hi>Israel</hi> from going to <hi>Jerusalem;</hi> fearing lest if the People should Yearly go up to <hi>Jerusalem</hi> to Worship, they should be again reduc'd to their Allegiance, to <hi>Rehoboam,</hi> and so cast off his Usurpation. Now, the occasion of the Kingdoms coming to him, was from <hi>Solomons</hi> falling to <hi>Heathen Idolatry,</hi> 1 <hi>Kings.</hi> 11.33. Which would make him more cautious of falling into it, especially at his first entrance. In <hi>Ahabs Idolatry,</hi> the occasion and description of it
+<pb facs="tcp:99622:9"/> is given, 1 <hi>Kings.</hi> 11.33. and the God the Worshipped particularly mentioned. But of <hi>Jeroboam</hi> it is only said, that he set up the Calves at <hi>Dan</hi> and <hi>Bethel,</hi> and said unto the People, it is too much for you to go up to <hi>Jerusalem; Behold thy</hi> Gods, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Israel, <hi>we have brought Thee up out of the Land of</hi> Egypt, 1 <hi>Kings.</hi> 12.28, 29. How easie had it been for him to have said, that <hi>Jeroboam</hi> Worshipped the Gods of <hi>Egypt,</hi> had that been his intention! And <hi>Jeroboam</hi> would have argued much better, that they had hitherto been in a great mistake, concerning the <hi>True God,</hi> and not meerly as to the place of his Worship, which is all he speaks against; for he con<g ref="char:EOLhyphen"/>tinued the same Feasts and way of Worship that were at <hi>Jerusalem.</hi>
+            </p>
+            <p>But if this of <hi>Jeroboam</hi> is <hi>Heathen Idolatry,</hi> how comes the Sin of <hi>Ahab</hi> to be called so much greater than that of <hi>Jeroboam?</hi> How comes <hi>John</hi> at the same time, to boast of his Zeal for the Lord, when it is said of him, that he departed not from the Sins of <hi>Jeroboam, viz.</hi> the <hi>Golden Calves</hi> of <hi>Dan</hi> and <hi>Bethel,</hi> 2 <hi>Kings</hi> 10.16, 19. How comes the Prophet not to Reprove <hi>Jeroboam,</hi> for the Gods he Worshipped, but for the Altar; this was a very small Fault in respect of the former, had <hi>Jero<g ref="char:EOLhyphen"/>boam</hi> been guilty of <hi>Heathen Idolatry.</hi> And how comes the Worship of <hi>God</hi> to be preserved in the <hi>Ten Tribes,</hi> after their Captivity, when they still continued their Separation in Religion, from the Kingdom of <hi>Judah,</hi> 2 <hi>Kings</hi> 17.28. For certainly, if the <hi>Samaritans</hi> had only desired Information concerning the Worship of the <hi>God</hi> of <hi>Israel,</hi> after the way of <hi>Jerusalem,</hi> they would have sent thither for it: But be<g ref="char:EOLhyphen"/>cause they sent into the Land of the Captivity, for a <hi>Priest</hi> to be sent to them; it is plain, the former differences still continued.</p>
+            <p>From all which, it's plain, that <hi>Jeroboam</hi> did not fall into <hi>Heathen Idolatry;</hi> and yet we see he is charged with <hi>Idolatry</hi> in Scripture, tho' not <hi>Heathen Idolatry,</hi> like that of <hi>Ahabs,</hi> for it is said, <hi>That he had done Evil above all that were before him;</hi>
+               <note place="margin">1 <hi>Kings</hi> 14.9.</note>
+               <hi>and had gone and made him other</hi> Gods, <hi>and</hi> Molten Images, <hi>to provoke</hi> God <hi>to Anger, and had cast him behind his Back:</hi> Which charge, may sufficiently Inform us how great a Sin this of Worshiping the True <hi>God,</hi> by <hi>Images,</hi> is.</p>
+            <p>The Second Head of Discourse, is, <hi>That the</hi> Gods <hi>that they worshipped,</hi>
+               <note place="margin">
+                  <hi>Pag.</hi> 94▪</note>
+               <hi>at that time, were nothing but the Heavenly Bodies, or the</hi> Sun, <hi>as the Supream Deity.</hi>
+            </p>
+            <p>But, how can it be supposed, that Men of Sense and Understanding should be<g ref="char:EOLhyphen"/>lieve that to be a <hi>God,</hi> which is altogether void of Understanding? And if the greatest Part of the World acknowledged such for <hi>Gods</hi> as had no Understanding, how could the Notion of the One Supream <hi>God</hi> be preserved among them?</p>
+            <p>Our <hi>Author</hi> goes about to Prove, That this was the Idolatry of the <hi>Heathens,</hi>
+               <note place="margin">
+                  <hi>Pag.</hi> 96▪</note> by the Testimony of <hi>Eusebius:</hi> But he might have remembred, That this Passage is extant in his <hi>Third Book, De Prepar. Evang.</hi> that tho <hi>Porphyrie</hi> seemed to think that the <hi>Egyptians</hi> looked not beyond the <hi>Sun, Moon,</hi> and <hi>Stars;</hi> yet he acknow<g ref="char:EOLhyphen"/>ledges, that they represented the Creator with an <hi>Egg</hi> in his Mouth. Now, if they acknowledged a <hi>God,</hi> how can it be said, That they Worshipped the <hi>Stars,</hi> without any Notion of a Supream Deity?</p>
+            <p>He brings in likewise <hi>Diodorus Siculus;</hi> but it seems he has not much Read him, or he would have been loath to have brought Him in, who makes so much against him; for in his First Book, after the Celestial <hi>Gods,</hi> he Treats of Men and Women Deified, of <hi>Osiris, Isis,</hi> and <hi>Tryphon;</hi> and says, That <hi>Osiris</hi> was equally Honoured with the Celestial <hi>Gods.</hi>
+            </p>
+            <p>
+               <hi>Eusebius</hi> in his Chronicles, saith, from the Testimony of <hi>Berosus,</hi> That tho' they Worshipped the <hi>Sun,</hi> under the Name of <hi>Baal,</hi> yet they believed a Supream <hi>God,</hi> whom they acknowledged to have produced all things. And by the Testimonies of <hi>Plutarch</hi> and <hi>Zenophon,</hi> the <hi>Persians</hi> owned a <hi>God</hi> above the <hi>Sun.</hi>
+            </p>
+            <pb n="16" facs="tcp:99622:10"/>
+            <p>And <hi>Macrabius</hi> never affirm'd, That they had no Sense and Apprehension of a Supream <hi>God,</hi> but says in the beginning, that he speaks only of Sub-celestial <hi>Gods;</hi> and that the Antients believed that the <hi>Sun</hi> was Governour of the World. But where he speaks of the Supream <hi>God,</hi> he saith, That the Antients never made an Image of this <hi>God,</hi> because they thought him so far beyond our Conception. And so these several Authors, our Author quotes, do him very little Service in maintain<g ref="char:EOLhyphen"/>ing his True and Only Notion of <hi>Idolatry.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 125.</note>Our Author says, It is no less Malice than Folly, to charge <hi>Idolatry</hi> upon all Christians of the <hi>Roman</hi> Communion. It consists, he says, of these Three Heads.</p>
+            <list>
+               <item>1. <hi>The Worship of Images.</hi>
+               </item>
+               <item>2. <hi>Adoration of the</hi> Host.</item>
+               <item>3. <hi>Invocation of Saints.</hi>
+               </item>
+            </list>
+            <p>And, whereas he justifies their making Images, from the Instance of the <hi>Cheru<g ref="char:EOLhyphen"/>bims:</hi> It is plain, there is a vast difference: For, as Idolatrous as the <hi>Jews</hi> were, they never paid any Worship to the <hi>Cherubims,</hi> as the <hi>Papists</hi> do, even by their own Concessions to <hi>Images.</hi> They never Invocated <hi>Cherubims,</hi> as the <hi>Papists</hi> do their <hi>Crosses, Images, &amp;c.</hi> But in all their Acts of Worship, shewed that they paid no Worship thereto, by their continual use of this Expression: <hi>Thou</hi> God <hi>that dwel<g ref="char:EOLhyphen"/>lest between the</hi> Cherubims.</p>
+            <p>He saith, That if it follows that something more is required to make <hi>Idolatry</hi> than the use of <hi>Images,</hi> our Author has a particular Talent in the Art of <hi>Sophistry,</hi> through his whole Book, by foisting in Sentences of Ambiguous significations: For either, by use of them, may be meant a setting up of them in that Place; for Or<g ref="char:EOLhyphen"/>nament, or by Vertue of a <hi>Command,</hi> without making any Application to them, in Acts of Worship, as the <hi>Jews</hi> did in this Case; for it is more than certain, they would never have presumed to do such a thing, unless they had had a par<g ref="char:EOLhyphen"/>ticular Command of <hi>God:</hi> Or it may be taken for an actual making use of them in Acts of Worship. In the former Sense, the <hi>Jews</hi> made use of the <hi>Cherubims,</hi> to their Images,<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> but not in the latter; for it is plain, That they never directed any Act of Worship thereto; which, yet 'tis plain the <hi>Papists</hi> do. And if the <hi>Jews</hi> had done any such thing, <hi>God</hi> would have declared against it, and no doubt would rather have caused them to be taken away, than had his Worship thereby polluted. A plain Instance of which we have in Scripture, in a thing no less of Divine Ap<g ref="char:EOLhyphen"/>pointment than the Cherubims were; to wit, the <hi>Golden Serpent:</hi> For tho <hi>God</hi> ap<g ref="char:EOLhyphen"/>pointed that to be kept, in remembrance of his curing them; and looking upon it, when they were stung by the Fiery Serpents, and likewise as a Type of our Sa<g ref="char:EOLhyphen"/>viour, as he himself declares to <hi>Nicodemus;</hi> yet when the People committed Ido<g ref="char:EOLhyphen"/>latry therewith, the Good King destroyed it. By the way, I would ask our Au<g ref="char:EOLhyphen"/>thor, whether they committed that Idolatry with it, which he says is the True and only Notion of Idolatry; to wit, if they Worshipt the <hi>Sun</hi> thereby? certainly he will not say that. And I hope he will not say, they Worshipt it self, so as to account it a <hi>God;</hi> for it is not probable, they could be so stupid in such a Good Kings Reign, especially when the Scripture does not say they committed so gross <hi>Ido<g ref="char:EOLhyphen"/>latry</hi> with a Sacred thing as that, even under the worst of their Kings, and those who were most prone to Idolatry. Nay, 'tis plain, That when they Worshipped strange Gods, they did not think there was any Divinity in the Image it self; and that hence they are called the <hi>Gods</hi> of the <hi>Zidonians, Ammonites,</hi> &amp;c. Now, it is impossible that they could imagine that that Image, inclosed in their Temples, could be the Deity of that People whose Gods they Worshipt, but only that they set up an Image, to represent that GOD whom the <hi>Ammonites,</hi> &amp;c. Worshipped. And it remains then, that they designed by the Serpent to Worship the LORD
+<pb n="17" facs="tcp:99622:10"/> and it may be paid such an honour to it as the Papists term <hi>Douleia;</hi> and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eeing that was reckoned Idolatry by God, our Author will please to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ardon us, if we do not receive his true and only Notion of Idolatry.</p>
+            <p n="3">3. Our Author may be answered by one of his own Authors (and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>uch as maintains no Anticatholick Unchristian Principles) <hi>Thomas Aquinas.</hi> His words are; <q rend="margQuotes">They were not set up to be Worshiped, but for the sake of some Mystery: <hi>viz.</hi> the <hi>Sanctum Sanctorum</hi> Resembled Heaven; the <hi>Ark</hi> as the Foot-stool of God who was incomprehensible, and therefore no resemblance of him was there; the Mercy-seat his Residence; the Cherubims represented the Company of Heavenly An<g ref="char:EOLhyphen"/>gels waiting on him, whom they were forbidden to Worship, since that was due to God alone.</q>
+            </p>
+            <p>Our Author comes off with a fair shain,<note place="margin">
+                  <hi>p.</hi> 125.</note>
+               <hi>If it be no Idolatry to Worship towards an</hi> Image, <hi>after all their Frights they fairly give up the Cause to the Church of</hi> Rome. Where again observe his Equivocation, Worship to<g ref="char:EOLhyphen"/>wards an <hi>Image.</hi> For it may be either taken barely for Worshipping to<g ref="char:EOLhyphen"/>wards a place where the <hi>Image</hi> is, and without any respect to it, no more than they knew not of any <hi>Image's</hi> being there; no man will call that Idolatry; but that will do the Church of <hi>Rome</hi> no service; Or it may be taken for Worship towards the <hi>Image</hi> it self, so as the Person directs him<g ref="char:EOLhyphen"/>self immediately to the <hi>Image</hi> and pays it some Adoration, and that this is Idolatry, hath been already evinced from Scripture: Nor has our Au<g ref="char:EOLhyphen"/>thor for all his bustling, vindicated her from the Aspersion of it.</p>
+            <p>I shall only Insert an Argument or two out of the Fathers of <hi>Constanti<g ref="char:EOLhyphen"/>nople;</hi> the first is against <hi>Images</hi> of Christ, thus: <q rend="margQuotes">That all the Represen<g ref="char:EOLhyphen"/>tation of Christ allowed us by the Gospel, is that which Christ him<g ref="char:EOLhyphen"/>self Instituted, in the Elements of the Lords Supper, whose use was to put us in remembrance of Christ. No other Figure or Type being chosen by Christ, as able to Represent his being in the Flesh but this. This was an Honourable <hi>Image</hi> of his quickning Body made by him<g ref="char:EOLhyphen"/>self; which he would not have of the shape of a Man to prevent Idola<g ref="char:EOLhyphen"/>try; but of a common Nature, as he took upon him the common Nature of Man, and not any Individual Person; and as the Body of Christ was really Sanctified by the Divine Nature, so by Institution this Holy <hi>Image</hi> is made Divine through sanctification by Grace.</q>
+            </p>
+            <p n="2">2d. Of the same Fathers Arguments against the <hi>Image</hi> of any other: <q rend="margQuotes">Because these being the chief, there can be less reason for any others besides; that there is no Tradition of <hi>Christ</hi> or his Apostles for them: No way of Consecration of them prescribed, or practised; no suitable<g ref="char:EOLhyphen"/>ness in the use of them to the design of the Christian Religion, which being in the middle betwixt <hi>Judaism</hi> and <hi>Paganism,</hi> it casts off the Sa<g ref="char:EOLhyphen"/>crifices of the one, and not only the Sacrifices, but the Idolatries of the
+<pb n="18" facs="tcp:99622:11"/> other: And it is Blasphemy to the <hi>Saints</hi> in Heaven, to call in th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Heathen Superstitions into Christianity, to honour them by: That it<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> unbecoming their Glory in Heaven to be set upon Earth in dull a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> senseless <hi>Images:</hi> That Christ himself would not receive Testimon<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> from Devils, though they spake Truth; neither can such a Heatheni<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> custom be acceptable to the <hi>Saints</hi> in Heaven, though pretended to b<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> for their Honour. That nothing can be plainer in the Gospel than tha<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> God is a Spirit and will be Worshiped in Spirit and in Truth, to whic<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> nothing can be more contrary than the going about to honour Go<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> by Worshiping any <hi>Image</hi> of himself or his <hi>Saints.</hi>
+               </q>
+            </p>
+            <p>As to his 2d. the Adoration of the <hi>Host.</hi> They can be no more excuse<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> from Idoletry in their Worshiping of it than the <hi>Heathen;</hi> for that they give Adoration even to what they see in it is plain, and if they Worship that which according to themselves is nothing but the Accidents, they are worse than the <hi>Heathen</hi> who Worship only Substances.</p>
+            <p n="2">2. They are not sure but they may be imposed upon so as to commi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Idolatry even in their own sense of it; for either through the Juggling or carelesness of the Priest an unconsecrated Wafer may be presented to them instead of a Consecraeed one. And,</p>
+            <p n="3">3dly. Seeing it has been proved, and has been the Opinion of all the Ancient Church, till about the 9th. Century, that the Bread and Wine are not Transubstantiated into the Body and Blood of Christ, it must of necessity follow, that they are Idolatrous in Worshiping it.</p>
+            <p>When they are charged with Idolatry for Worshiping <hi>Saints</hi> and <hi>Angels,</hi> as also <hi>Images,</hi> they labour to shift the Argument by saying, they give only <hi>Douleia,</hi> but not <hi>Latria,</hi> which is due to God alone. But for all their sub<g ref="char:EOLhyphen"/>tilty they cannot get one place in Scripture to bear them out in this Di<g ref="char:EOLhyphen"/>stinction; for the Scripture uses them both indifferently, without any respect had to inferior or superior Worship. But I desire that they will shew us some ground for their Distinction, how many degrees of Worship go to make up a <hi>Douleia,</hi> and how many a <hi>Latria;</hi> for as to their External Adora<g ref="char:EOLhyphen"/>tion it is the same Posture when directed to an <hi>Angel,</hi> or <hi>Saints,</hi> as when directed to God, their Affection and Zeal seems likewise the same; nay; and their very External Words are likewise the same, <hi>viz.</hi> asking things of an <hi>Angel, &amp;c.</hi> after the same manner as if it were an Independent Being, and consequently his Honour is given to the Creature. As in the <hi>Antiphona</hi> on the Apparition of <hi>Michael</hi> the <hi>Arch-Angel,</hi>
+               <note place="margin">Brev. p. <hi>224.</hi>
+               </note>
+               <hi>he is praid to come and help the people of God.</hi> And in the Feast of the Guardian <hi>Angel,</hi> re<g ref="char:EOLhyphen"/>commended to all <hi>Catholicks</hi> by <hi>Paul</hi> V. in the last words of the Breviary: <hi>They are praid to defend them in War, that they may not perish in Gods terri<g ref="char:EOLhyphen"/>ble Judgment.</hi>
+               <note place="margin">Commun. Apost. p. <hi>29.</hi>
+               </note> In the Hymn to the Holy Apostles they are praid <hi>to com<g ref="char:EOLhyphen"/>mand the Guilty to be loosed from their Guilt, to heal unsound minds, and to
+<pb n="19" facs="tcp:99622:11"/> encrease their Vertues, that when Christ shall come, they may be partakers of eternal Glory.</hi> The Reader may plainly see here, that it is not said, <hi>Pray to God for us;</hi> which if they did, they were blameable enough; but do it for us, your selves, as if the Angels and Apostles were all Independant Be<g ref="char:EOLhyphen"/>ings. And I am sure, such absolute Worship as that is, cannot even in their own Sense be termed <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; for they cannot express it in higher Words to God himself.</p>
+            <p n="2">2. Those Acts which pre-suppose in a Creature, one of the highest Per<g ref="char:EOLhyphen"/>fections we can conceive are <hi>Idolatrous.</hi> But so it is that the Invocating of Angels implies one of the highest Perfections we can conceive to be in them, for we must imagine that they know when we Invocate them, otherwise if we did not believe them to know and take notice what we said unto them, we would not do it. And upon this supposition, that they do hear us, we must Attribute to them the highest Knowledge which we can conceive; as, suppose so many Persons at the same time Pray from the most distant places of the Earth to St. <hi>Michael, Peter, Paul,</hi> &amp;c. we must believe, both that they hear those different Prayers of the Persons supposed to be in so distant places, at the same Minute; and likewise that they can judge of their Sincerity, for we cannot expect to have an Answer of our Prayers, without our Sincerity be known. Whereas the Scripture plainly says, <hi>Tbat God is the judge of Hearts.</hi> And pray what higher Notion can we have even of Omniscience it self.</p>
+            <p n="3">3. That Action which supposes God to be unmindful of his Servants, must needs be highly displeasing to him. But this Praying to Saints to Interceed for them, supposes God to be unmindful; and that therefore he must be put in Mind of it by Saints and Angels; and likewise that Christ is not so Faithful in his Mediatory Office as he should be. All which are notorious Blasphemies.</p>
+            <p>It may not be amiss here to set down some Instances of the Fathers, Opinions, as to the Invocation of our Blessed Virgin, <hi>&amp;c.</hi>
+            </p>
+            <p>Epiphanius saith, Maries <hi>Body was Holy indeed, but yet not</hi> God,<note place="margin">Contra Coly. rid.</note>
+               <hi>she was indeed a Virgin and Honourable, but she was not propounded for Adoration, but her self Worshipped Him, who as concerning his Flesh was Born of Her.</hi>
+            </p>
+            <p>Austin saith, <hi>Let not the Worship of Dead Men be any Religion unto us,</hi>
+               <note place="margin">De vera Relig. c. ult.</note>
+               <hi>be<g ref="char:EOLhyphen"/>cause if they have lived Holily, they are not to be accounted of, as that they should seek such Honour, but rather they will have him to be worshipped of us by whom being Illuminated, rejoyce that we should be fellow Servants of their reward. They are therefore to be honoured for Imitation, not worshiped for Religion sake.</hi> And again, <hi>We honour them with Love, not with Service.</hi>
+               <note place="margin">Ibid.</note>
+               <hi>Neither do we erect Temples unto them, for they will not have themselves so to be honoured of us, be<g ref="char:EOLhyphen"/>cause they know that we our selves being good are the Temples of the high</hi> God.<note place="margin">De Civ. Dei l. <hi>8.</hi> c. <hi>27.</hi>
+               </note> And in another place, <hi>Neither do we Consecrate Temples, Priest-hoods, Holy
+<pb n="20" facs="tcp:99622:12"/> Rites, Ceremonies, and Sacrifices unto the same Martyrs, seeing not they, but their</hi> God <hi>is our</hi> God, <hi>&amp;c. We neither Ordain Priests for our Martyrs, nor Offer Sacrifices.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. Rom. c. <hi>1.</hi>
+               </note>Ambrose saith, <hi>They are wont to use a miserable excuse, saying, that by these Men we may have access unto</hi> God, <hi>as to a King by Earls. Go to, is any Man so Mad, I pray you, that being forgetful of his own Salvation, he will Challenge, as fit for an Earl,</hi>
+               <note place="margin">Ibid.</note>
+               <hi>the Royalty of a King?</hi> And a little after, <hi>These Men think them not Guilty, that give the honour of</hi> God<hi>'s Name to a Creature, and leaving the Lord, worship their Fellow Servants.</hi>
+            </p>
+            <p>
+               <note place="margin">Horn. Hist. Eccl. p. <hi>102.</hi> &amp;c.</note>We shall now give a short account how Images were first brought in, as also the Invocation of Saints. And the first that brought in Images is <hi>Paulinus,</hi> Bishop of <hi>Nola,</hi> and <hi>Sulpitius Severus,</hi> (although before their Time, they had in some places painted Images, as appears from <hi>Epiphanius</hi> cutting the Vail whereon Christ was Painted) for Historical use, or Ornament of their Churches. But there is not the least proof of any Adoration given them then; their only use at that Time being Histori<g ref="char:EOLhyphen"/>cal, Ethical, or Politick. Yet they are blameable for making that use of them; for that Historical use, in a little Time, degenerated into Idolatry.</p>
+            <p>As to the Invocation of Saints, it owes its Original to the <hi>Panegyrick</hi> Orations of St. <hi>Basil, Nyssen,</hi> and <hi>Nazianzen,</hi> who being great Orators, used several Rhetorical Flourishes in their Declamations, sometimes using Compellations to the Dead, as if they were present before them; and sometimes Imploring their Intercession; so that what they did meer<g ref="char:EOLhyphen"/>ly for Eloquence of Speech, gave occasion to the Unlearned to fall into that gross Error.</p>
+            <p>In the days of the Emperour <hi>Philippicus,</hi> a new Controversie arose a<g ref="char:EOLhyphen"/>bout the Adoration of Images; for this Emperour caused to remove the Images of <hi>Christ, Mary,</hi> and the <hi>Saints</hi> out of the Churches, and Or<g ref="char:EOLhyphen"/>dained that none should Worship them; the <hi>Popes</hi> of <hi>Rome</hi> stoutly main<g ref="char:EOLhyphen"/>tained the Adoring of Images, and therefore Excommunicated the Em<g ref="char:EOLhyphen"/>perour. The Original of this Controversie was thus: When <hi>John,</hi> a <hi>Monothelite Monk,</hi> was Elected Patriarch of <hi>Constantinople,</hi> a Council was called there to Examine him as to his Doctrine, where he was Con<g ref="char:EOLhyphen"/>demn'd of <hi>Heresie.</hi> The <hi>Pope,</hi> in commemoration of this Act, caused the Images of all those who were present at this Council be set up in the Porch of St. <hi>Peter:</hi> which occasioned a Controversie between the <hi>Greeks</hi> and <hi>Latins;</hi> the former avouching that they should be Abrogate, as de<g ref="char:EOLhyphen"/>structive to Piety, and the latter maintaining them. <hi>Leo Isaurus</hi> the Third Emperour of this Name, being Offended with this abominable <hi>Ido<g ref="char:EOLhyphen"/>latry</hi> Published an Edict, <hi>An.</hi> 726. <hi>That none should Worship any Image. He al<g ref="char:EOLhyphen"/>so caused all Images be thrown down, Pictures defaced, and all the Walls whitened.</hi>
+            </p>
+            <pb n="21" facs="tcp:99622:12"/>
+            <p>
+               <hi>Gregory</hi> the Third, when he heard thereof, Excommunicated <hi>Leos,</hi> who Laughed at his Thundrings, saying, <hi>He is an</hi> Idolator, <hi>and is Excom<g ref="char:EOLhyphen"/>municated himself;</hi> he was therefore called <hi>Iconomachus.</hi>
+            </p>
+            <p>To him Succeeded <hi>Constantine Capronymus,</hi> a great Abhorer of Images, who also calling the 7th. General Council at <hi>Constantinople,</hi> Condemned the Worshippers of Images as Idolators, <hi>&amp;c.</hi> caused all the Images to be removed out of the Churches, and would not so much as suffer them to be used privately.</p>
+            <p>In the 2d. Council of <hi>Nice</hi> 787. by the Influence of <hi>Irene</hi> and her Son <hi>Constantine</hi> the 6th. it was decreed, That Images should not only be kept for Historical use, but also Adored, Saluted, <hi>&amp;c.</hi> This <hi>Irene</hi> caused the Body of <hi>Constantine Copronimus</hi> to be digged up, and publickly Burnt; and caused her Sons Eyes to be put out, because he threw down some Images.</p>
+            <p>Upon hearing of the proceedings of this Council, <hi>Charles</hi> the Great called a Council at <hi>Frankfort,</hi> 794. of 300 Bishops: whose chief business was the Controversie about Images; and they approved their Histori<g ref="char:EOLhyphen"/>cal use, but condemned the Worship of them, the 2d. <hi>Nicene</hi> Council was rejected, and the <hi>Caroline</hi> Writings published against that Pseud-Council, which Pope <hi>Adrian</hi> in vain endeavoured to maintain. Yet in Progress of Time it universally prevailed in the Church.</p>
+            <p>What gross Idolatries they commit in their Prayers to the Blessed Virgin,<note place="margin">Rom. Bre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. A. <hi>1663.</hi> p. <hi>983.</hi>
+               </note> the Reader may judge by the Forms they use to Invocate her by. In the present <hi>Roman Breviary,</hi> restored according to the Council of <hi>Trent,</hi> by several Popes may read, <hi>Hail Blessed Virgin, thou alone hast Destroyed all Heresies in the World,</hi> And again, <hi>Vouchsafe to let me praise Thee O Holy Virg<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, and give me strength against thy Enemies.</hi> And in the Hymn frequently used in her Office, and particularly on that day she is not only called the Gate of Heaven; but she is intreated to loose the Bonds of the Guilty; to give light to the B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ind, and to drive away our Evils, and to show her self to be a Mother, as in the Mass Book Printed at <hi>Paris,</hi> 1634. By the Authority of a Mother Command the Redeemer. They Pray to her therein for Purity of Life, and a safe conduct to Heaven. Innumerable more might be mentioned, but these may suffice to inform the Reader of their Idolatries, more than to accumulate multitudes of Arguments</p>
+            <p>And all this Idolatry committed in their Addresses to her, seems to pro<g ref="char:EOLhyphen"/>ceed from a gross Notion of an Eternal State, to wit, that those External Relations that proceed here from a Married State, such as Husbands and Wives, Parents and Children, were in force in that Life of Blessedness; whereas our Saviour himself says in his Answer to that Unanswerable Objection <hi>(as themselves thought)</hi> of the Sadduces against the Resurrection of the Dead; <hi>The Children of this world Marry and are given in Marriage;
+<pb n="22" facs="tcp:99622:13"/> But they which shall be accounted worthy to attain that World, and the Resurrection from the Dead, neither Marry nor are given in Marriage—For they are like unto the Angels,</hi> &amp;c. Luke 20.34, 35, 36. And if they are like unto the Angels, then undoubtedly all those External Relations that have so much force here, are there at an End. Had they considered our blessed Saviours own Words as to her, while one of the Multitude cried, Blessed is the Womb <hi>that bare Thee, and the Pap that gave Thee Suck;</hi> replying, Yea rather, <hi>Blessed are they that hear the Word of God, and do it.</hi> And it is very Observable, that when One came and told him, <hi>That his Mother and Brethren stood without, desiring to speak with him;</hi> He Answered and said unto him that told him, <hi>Who is my Mother?</hi> and, <hi>who are my Brethren?</hi> He stretched forth his Hand towards his Disciples, and said, <hi>Behold my Mother and my Brethren; For whosoever shall do the Will of my Father which is in Heaven, the same is my Brother, Sister, or Mother.</hi> As also that in all places of Scripture, where He is brought in answering her, he Prefaces it with this Word <hi>Woman.</hi> By all which, 'tis plain that our Saviour did plainly Caveate his Church, against those dangerous Errors about his Mo<g ref="char:EOLhyphen"/>ther, which have since crept into the Christian World, to the unspeakable Dishonour of His Name, and Stumbling-block of <hi>Jews, Mahometans,</hi> and <hi>Heathens;</hi> which, in all probability, shall never be Converted to their Lord and Saviour, as long as such gross Errors are kept up by those that take upon themselves the Name of Christians.</p>
+            <p>I shall conclude this Discourse in the Words of that Religious and Learned Prince, King <hi>James</hi> the First, where speaking of the Controver<g ref="char:EOLhyphen"/>sies between Us and the Church of <hi>Rome,</hi> he comes to that point of the Relicks of Saints.<note place="margin">K. <hi>James</hi>'s Works p. <hi>303.</hi>
+               </note>
+               <hi>But for the worshipping either of them, or Images, I must,</hi> saith he, <hi>account it Damnable</hi> Idolatry; and adds, <hi>That the Scrip<g ref="char:EOLhyphen"/>tures are so directly, vehemently and punctually against it, as I wonder what Brain of Man, or Suggestion of Satan durst offer it to Christians; and all must be Salved with nice and Philosophical Distinctions—, Let them there<g ref="char:EOLhyphen"/>fore that maintain this Doctrine, answer it to</hi> Christ, <hi>at the Latter Day, when he shall accuse them of</hi> Idolatry; <hi>and then I doubt if he will be paid with such nice and sophistical Distinctions.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:99622:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
